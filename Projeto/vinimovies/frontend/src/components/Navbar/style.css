@@ -1,0 +1,31 @@
+header {
+    background-color: var(--color-primary);
+}
+
+.vmovies-nav-content {
+   display: flex;
+   justify-content: space-between;
+   color: white;
+}
+
+.github{
+    display: flex;
+    align-items: center;
+}
+
+.githubName{
+    margin-bottom: 0;
+    margin-left: 10px;
+    color: white;
+    text-decoration: transparent;
+}
+
+.githubIcon :hover{
+    transform: scale(1.10);
+    transition: all 250ms ease-in-out;
+}
+
+.vmovies-nav-content h1{
+    font-weight: bold;
+}
+

@@ -14,7 +14,6 @@ export default function App() {
   return (
     <BrowserRouter>
       <Navbar />
-      <Pagination />
       <Routes>
         <Route path="/" element={<Listing />} />
         <Route path="/form">

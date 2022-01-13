@@ -1,0 +1,5 @@
+package com.devsuperior.vinimovies.entities;
+
+public class User {
+
+}

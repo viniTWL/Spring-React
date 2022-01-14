@@ -1,0 +1,5 @@
+package com.devsuperior.vinimovies.controllers;
+
+public class MovieController {
+
+}

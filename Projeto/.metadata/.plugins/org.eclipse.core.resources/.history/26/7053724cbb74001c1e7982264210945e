@@ -1,0 +1,5 @@
+package com.devsuperior.vinimovies.service;
+
+public class MovieService {
+
+}
